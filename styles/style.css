@@ -1,7 +1,11 @@
 /* Primary font  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
-/* common style  */
+/* common style or utilities */
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     font-family: 'Poppins', sans-serif;
     background: #F3F1FF;;
